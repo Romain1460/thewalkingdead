@@ -17,10 +17,19 @@ body {
     background:url(images/bouton-noir.png) no-repeat;
     color:white;
     text-decoration:none;
+    border: 12px solid black;
+    
     }
     .bouton a:hover {
     background:url(http://css.mammouthland.net/images/boutonnoir.png) no-repeat;
     float:left;
     margin:2px;
-    
+   
+    }
+
+
+    #grostitre {
+        text-align: center;
+
+
     }
