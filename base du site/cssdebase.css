@@ -3,6 +3,7 @@ body {
 
 	background-image:url('https://fanart.tv/fanart/tv/153021/source/source_59f811ad27dfa.jpg');
     background-repeat:  no-repeat; 
+    background-size: cover;
     
 }
 
@@ -26,7 +27,7 @@ text-shadow:   1px 1px #000000;
 
     h1 {
         text-align: center;
-        margin-top:100px;  
+        margin-top:10px;  
         font-size: 500%;
         font-weight : bold;
         

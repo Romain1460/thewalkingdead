@@ -26,9 +26,11 @@
     body {
         color: #F0E39E;
     
-        background-image: url(https://image.freepik.com/photos-libre/resume-gradient-noir-de-luxe-avec-arriere-plan-de-fond-de-vignette-noire-contexte-de-studio-bien-utilise-comme-fond-arriere-tableau-noir-arriere-plan-studio-noir-cadre-degrade-noir_1258-180.jpg); 
-        background-repeat:  no-repeat; 
-       
+            background: #090c18  url(https://image.freepik.com/photos-libre/resume-gradient-noir-de-luxe-avec-arriere-plan-de-fond-de-vignette-noire-contexte-de-studio-bien-utilise-comme-fond-arriere-tableau-noir-arriere-plan-studio-noir-cadre-degrade-noir_1258-180.jpg) center top fixed no-repeat;
+            background-size: cover;
         
+       
+       
     }
+
    
