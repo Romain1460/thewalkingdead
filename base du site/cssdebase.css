@@ -12,7 +12,7 @@ body {
 
 h1 {
     text-align: center;
-    margin-top:-250px;  
+    margin:-630px;  
     font-size: 500%;
     font-weight : bold;
     
@@ -25,9 +25,9 @@ h1 {
 background:    -webkit-linear-gradient(#000000, #999999);
 background:    linear-gradient(#000000, #999999);
 border:        2px solid #00ffff;
-border-radius: 5px;
+border-radius: 10px;
 box-shadow:    0 1px #444444;
-padding:       12px 60px;
+padding:       22px 60px;
 color:         #ffffff;
 display:       inline-block;
 font:          normal 700 24px/1 "Calibri", sans-serif;
@@ -39,7 +39,10 @@ margin-top:10px;
 
 }
 
-
+#madiv{
+   
+    margin-top: 5%;
+}
 
 
 
