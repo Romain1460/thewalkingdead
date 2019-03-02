@@ -9,6 +9,17 @@ body {
 
 
 
+
+h1 {
+    text-align: center;
+    margin-top:10px;  
+    font-size: 500%;
+    font-weight : bold;
+    
+
+
+}
+
 .bouton a {
     background:    #000000;
 background:    -webkit-linear-gradient(#000000, #999999);
@@ -22,15 +33,13 @@ display:       inline-block;
 font:          normal 700 24px/1 "Calibri", sans-serif;
 text-align:    center;
 text-shadow:   1px 1px #000000;
+width:10%; 
+
+
 }
+         
 
-
-    h1 {
-        text-align: center;
-        margin-top:10px;  
-        font-size: 500%;
-        font-weight : bold;
         
+    
 
-
-    }
+   
