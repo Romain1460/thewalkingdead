@@ -44,11 +44,21 @@ margin-top:10px;
     margin-top: 5%;
 }
 
+#texte{
+    background-color: rgba(107, 97, 97, 0.5);
+   text-align:left;
+   border: 3px blue ridge;
+   border-radius: 10px;
+   width: 60%;
+   margin: auto;
+   margin-top: -500px;
+   font-weight: 3600;
+   font-size:xx-large;
+   
+  
+}
 
 
-         
 
-        
-    
 
    
