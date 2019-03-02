@@ -1,4 +1,8 @@
+
+/* VOICI TOUS CE QUI CONCERNE LE FOND PRINCIPAL */
+
 body {
+
 	color: #F0E39E;
 
 	background-image:url('https://fanart.tv/fanart/tv/153021/source/source_59f811ad27dfa.jpg');
@@ -8,8 +12,7 @@ body {
 }
 
 
-
-
+/* VOICI TOUS CE QUI CONCERNE LE TITRE PRINCIPAL*/
 h1 {
     text-align: center;
     margin:-630px;  
@@ -19,6 +22,7 @@ h1 {
 
 
 }
+/* VOICI TOUS CE QUI CONCERNE LES BOUTONS */
 
 .bouton a {
     background:    #000000;
@@ -38,12 +42,12 @@ margin-top:10px;
 
 
 }
-
+/* VOICI CE QUI CONCERNE LA HAUTEUR DES BOUTONS */
 #madiv{
    
     margin-top: 5%;
 }
-
+/* VOICI TOUS CE QUI CONCERNE LES TEXTES */
 #texte{
     background-color: rgba(107, 97, 97, 0.5);
    text-align:left;
