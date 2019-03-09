@@ -21,7 +21,7 @@ body {
 /* VOICI TOUS CE QUI CONCERNE LE TITRE PRINCIPAL*/
 h1 {
     text-align: center;
-    margin:-630px;  
+    margin:-800px;  
     font-size: 500%;
     font-weight : bold;
     
@@ -51,7 +51,7 @@ margin-top:10px;
 /* VOICI CE QUI CONCERNE LA HAUTEUR DES BOUTONS */
 #madiv{
    
-    margin-top: 5%;
+    margin-top: 15%;
 }
 /* VOICI TOUS CE QUI CONCERNE LES TEXTES */
 #texte{
