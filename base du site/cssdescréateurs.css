@@ -1,18 +1,26 @@
-.boutonC a {
+.bouton a {
     display:block;
     width:150px;
     line-height:50px;
     text-align:center;
-    vertical-align:middle;
-    background:url(images/bouton-noir.png) no-repeat;
+    
+    vertical-align: middle;
     color:white;
     text-decoration:none;
     }
-    .boutonC a:hover {
+    .bouton a:hover {
     background:url(http://css.mammouthland.net/images/boutonnoir.png) no-repeat;
+    background-size:auto;
     float:left;
-    margin:2px;
+    font-size: 150%;
+  
+
     
+    }
+
+    #taille {
+        font-size: 250%;
+
     }
 
 
@@ -27,10 +35,17 @@
         color: #F0E39E;
     
             background: #090c18  url(https://bigfernand.com/wp-content/uploads/2018/02/fond-bois.jpg) center top fixed no-repeat;
+            background-repeat:  no-repeat; 
             background-size: cover;
+            background-size: auto;
+            -o-background-size: cover;
+            background-attachment: fixed, scroll;
+            -webkit-background-size: cover;
+            margin:0;
+            padding:0;
         
        
        
     }
 
-   
+    
