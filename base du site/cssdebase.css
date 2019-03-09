@@ -7,6 +7,13 @@ body {
     background-image: url('fond.jpg');
     background-repeat:  no-repeat; 
     background-size: cover;
+    background-size: auto;
+    -o-background-size: cover;
+    background-attachment: fixed, scroll;
+    -webkit-background-size: cover;
+    margin:0;
+    padding:0;
+
     
 }
 
