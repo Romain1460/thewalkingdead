@@ -9,7 +9,7 @@
     text-decoration:none;
     }
     .bouton a:hover {
-    background:url(https://i.ytimg.com/vi/-lcAgDdXLsQ/maxresdefault.jpg) no-repeat;
+    background:url(http://css.mammouthland.net/images/boutonnoir.png) no-repeat;
     background-size:auto;
     float:left;
     font-size: 150%;
@@ -34,7 +34,7 @@
     body {
         color: #F0E39E;
     
-            background: #090c18  url(https://bigfernand.com/wp-content/uploads/2018/02/fond-bois.jpg) center top fixed no-repeat;
+            background: #090c18  url(https://i.ytimg.com/vi/-lcAgDdXLsQ/maxresdefault.jpg) center top fixed no-repeat;
             background-repeat:  no-repeat; 
             background-size: cover;
             background-size: auto;
