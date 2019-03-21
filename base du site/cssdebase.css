@@ -35,7 +35,7 @@ h1 {
 .bouton a {
     background:    #000000;
 background:    -webkit-linear-gradient(#000000, #999999);
-background:    linear-gradient(#00000050, #ffffff25);
+background:    linear-gradient(#00000000, );
 border:        2px solid rgb(54, 1, 1);
 border-radius: 10px;
 box-shadow:    0 1px #b40d0d;
