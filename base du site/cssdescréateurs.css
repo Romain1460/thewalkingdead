@@ -63,11 +63,11 @@ margin-top:10px;
 
 
     h2{
-        -webkit-animation: color-change 3s infinite;
-        -moz-animation: color-change 3s infinite;
-        -o-animation: color-change 3s infinite;
-        -ms-animation: color-change 3s infinite;
-        animation: color-change 3s infinite;
+        -webkit-animation: color-change 4s infinite;
+        -moz-animation: color-change 4s infinite;
+        -o-animation: color-change 4s infinite;
+        -ms-animation: color-change 4s infinite;
+        animation: color-change 4s infinite;
     }
 
 
