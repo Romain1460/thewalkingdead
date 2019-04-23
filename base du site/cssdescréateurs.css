@@ -1,12 +1,7 @@
 .bouton a {
     background:    #000000;
-<<<<<<< HEAD
-background:    -webkit-linear-gradient(#f30000c4, #f30000c4);
-background:    linear-gradient(#ffffff, #fd0000c4);
-=======
 background:    -webkit-linear-gradient(#000000, #030303c4);
 background:    linear-gradient(#000000, #000000c4);
->>>>>>> master
 border:        2px solid rgb(54, 1, 1);
 border-radius: 10px;
 box-shadow:    0 1px #b40d0d;

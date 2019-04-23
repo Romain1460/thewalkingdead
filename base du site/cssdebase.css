@@ -47,6 +47,13 @@ text-align:    center;
 text-shadow:   1px 1px #000000;
 width:55%; 
 margin-top:10px;
+}
+
+#bouton a:hover{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 255, 13);
 
 
 }
