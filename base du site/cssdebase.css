@@ -47,6 +47,13 @@ text-align:    center;
 text-shadow:   1px 1px #000000;
 width:55%; 
 margin-top:10px;
+}
+
+#bouton a:hover{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 255, 13);
 
 
 }
@@ -116,7 +123,7 @@ margin-top:10px;
 
 
     #centrer{
-text-align: center
+text-align: center;
     }
 .sous_titres{
     color: #000000;
@@ -126,8 +133,20 @@ text-align: center
 }
 
     #texte3{
-        text-align: center
+        text-align: center;
     }
+
+
+
+    #illustrations img{
+        width:500px;
+    }
+
+    
+    #illustrations{
+        text-align: center;
+    }
+
 
 /* NOTE PERSONNEL: -magrin sert à déterminé la position de quelque chose
    -font-size c'est pour le type de largeur de texte
