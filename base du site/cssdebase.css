@@ -138,15 +138,23 @@ text-align: center;
 
 
 
-    #illustrations img{
+    .illustrations img{
         width:500px;
     }
 
     
-    #illustrations{
+    .illustrations{
         text-align: center;
     }
 
+    .image_acteurs{
+        text-align: center;
+        margin-top: 5%;
+    }
+
+    .image_acteurs img{
+        width:350px;
+    }
 
 /* NOTE PERSONNEL: -magrin sert à déterminé la position de quelque chose
    -font-size c'est pour le type de largeur de texte
