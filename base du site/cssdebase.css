@@ -154,7 +154,32 @@ text-align: center;
 
     .image_acteurs img{
         width:350px;
+        
     }
+
+   .image_blague_gauche img{
+    width:270px;
+    
+}
+
+.image_blague_gauche{
+    text-align: left;
+    margin-top: 2%;
+}
+
+.image_blague_droite img{
+    width:300px;
+}
+
+.image_blague_droite{
+  
+    margin-top: 5%;
+}
+
+.produits img{
+    width:auto;
+    height: 200px;
+}
 
 /* NOTE PERSONNEL: -magrin sert à déterminé la position de quelque chose
    -font-size c'est pour le type de largeur de texte
